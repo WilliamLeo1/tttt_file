@@ -1,0 +1,25 @@
+CDU_FIELD_NAME,CENSUS_CELLNAME,TOPIC,CATEGORY,TOPIC_DESCRIPTION,
+F110068,KS404EW0007,Car or van availability,Sum of all cars or vans,"The number of cars or vans that are owned, or available for use, by one or more members of a household. This includes company cars and vans that are available for private use. It does not include motorbikes or scooters, or any cars or vans belonging to visitors.
+<br/>
+The count of cars or vans in an area relates only to households. Cars or vans used by residents of communal establishments were not counted.
+<br/>
+Households with 10 to 20 cars or vans were counted as having only 1.
+<br/>
+Responses indicating a number of cars or vans greater than 20 were treated as invalid and a value was imputed.",
+F110068,KS404EW0007,Unit,Cars or vans,The unit is for a particular count (e.g. people or households),
+F989,QS416EW0001,Car or van availability,Total\ Car or van availability,"The number of cars or vans that are owned, or available for use, by one or more members of a household. This includes company cars and vans that are available for private use. It does not include motorbikes or scooters, or any cars or vans belonging to visitors.
+<br/>
+The count of cars or vans in an area relates only to households. Cars or vans used by residents of communal establishments were not counted.
+<br/>
+Households with 10 to 20 cars or vans were counted as having only 1.
+<br/>
+Responses indicating a number of cars or vans greater than 20 were treated as invalid and a value was imputed.",
+F989,QS416EW0001,Unit,Households,The unit is for a particular count (e.g. people or households),
+F990,QS416EW0007,Car or van availability,Total\ Car or van availability,"The number of cars or vans that are owned, or available for use, by one or more members of a household. This includes company cars and vans that are available for private use. It does not include motorbikes or scooters, or any cars or vans belonging to visitors.
+<br/>
+The count of cars or vans in an area relates only to households. Cars or vans used by residents of communal establishments were not counted.
+<br/>
+Households with 10 to 20 cars or vans were counted as having only 1.
+<br/>
+Responses indicating a number of cars or vans greater than 20 were treated as invalid and a value was imputed.",
+F990,QS416EW0007,Unit,Cars or vans,The unit is for a particular count (e.g. people or households),
